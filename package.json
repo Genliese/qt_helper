@@ -2,8 +2,13 @@
     "name": "qt-helper",
     "displayName": "qt_helper",
     "publisher": "genliese",
-    "description": "",
-    "version": "0.0.2",
+    "description": "a plugin similar to clion new qt ui class",
+    "icon": "release_res/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Genliese/qt_helper"
+    },
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.91.0"
     },
